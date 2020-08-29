@@ -1,6 +1,6 @@
 '''Demonstruje liste'''
 
-bands = ['Architetcs','Parkway Drive', 'The Amity Affliction', 'Northlane',
+bands = ['Architects','Parkway Drive', 'The Amity Affliction', 'Northlane',
         'Bring me the Horizon', 'Suicide Silence', 'Miss May I',
         'Like Moths to Flames', 'Fit for a King', 'Bury Tomorrow', 'Phinehas',
         'Motionless in White', 'Polaris', 'Currents', 'Novelists',
