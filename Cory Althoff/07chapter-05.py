@@ -8,3 +8,4 @@ for i in list1:
         list3.append(mult)
 
 print(list3)
+input()

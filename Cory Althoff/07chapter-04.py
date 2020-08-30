@@ -1,4 +1,4 @@
-numbers = [2137,69,666,32]
+numbers = str([2137,69,666,32])
 
 while True:
     guess = input("Try to guess: ")
